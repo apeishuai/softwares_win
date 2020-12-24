@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+FurMark 1.9.x
+English translation
+Author: JeGX
+-->
+<furmark_gui>
+	<main_gui 
+  language="English"
+  
+  check_fullscreen="Fullscreen"
+  window_resolution="Resolution"
+  antialiasing="Anti-aliasing"
+
+  group_options="Options"
+  dynamic_background="Dynamic background"
+  dynamic_camera="Dynamic camera"
+  burn_in="Burn-in"
+  xtreme_burn_in="Xtreme burn-in"
+  postfx="Post FX"
+  button_settings="Settings"
+  
+  start_burn_in="BURN-IN test"
+  start_benchmark="Benchmark (user's settings)"
+  burn_in_benchmark="Burn-in benchmark 1920x1080 15min"
+
+  about="About..."
+  quit="Quit"
+  
+  hyperlink_onle_scores="[ Online scores ]"
+  hyperlink_sli_cf="[ SLI/CF ]"
+  hyperlink_furmark_approved="[ Burn-in tests ]"
+  hyperlink_lotd="[ Link of the day ]"
+	/>
+  
+	<options_gui 
+  checkbox_gpu_temp_alarm="GPU temperature alarm"
+  max_gpu_temp_alarm="Max GPU Ttemperature (°C)"
+  benchmark_duration="Benchmark duration (ms)"
+  log_gpu_temperature="Log GPU temperature"
+	/>
+  
+</furmark_gui>

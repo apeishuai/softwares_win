@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+FurMark 1.9.x
+Chinese translation
+Author: nhldp
+-->
+<furmark_gui>
+	<main_gui 
+  language="简体中文"
+  
+  check_fullscreen="全屏幕"
+  window_resolution="分辨率"
+  antialiasing="抗锯齿"
+
+  group_options="选项"
+  dynamic_background="动态背景"
+  dynamic_camera="动态角度"
+  burn_in="拷机"
+  xtreme_burn_in="极限拷机"
+  postfx="背景效果"
+  button_settings="设置"
+  
+  start_burn_in="拷机测试"
+  start_benchmark="基准测试(无预设)"
+
+  about="关于..."
+  quit="退出"
+  
+  hyperlink_onle_scores=">在线分数"
+  hyperlink_sli_cf=">SLI/CF"
+  hyperlink_furmark_approved=">拷机测试"
+  hyperlink_lotd=">每日链接"
+	/>
+  
+	<options_gui 
+  checkbox_gpu_temp_alarm="GPU温度警报"
+  max_gpu_temp_alarm="最高GPU温度(°C)"
+  benchmark_duration="基准测试持续时间(毫秒)"
+  log_gpu_temperature="记录GPU温度"
+	/>
+  
+</furmark_gui>

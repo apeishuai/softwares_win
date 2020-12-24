@@ -1,0 +1,15 @@
+The following registry entry stores installation data for SpecTools low level Windows driver.
+
+* Windows XP
+
+LocalMachine\Software\software\AMD\AMDTools
+
+* Vista
+
+LocalMachine\Software\Wow6432Node\Software\AMD
+
+In case the insttool fails to install driver instance, reset the counter under above registry entry first.
+
+
+
+

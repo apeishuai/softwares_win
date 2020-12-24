@@ -1,0 +1,17 @@
+<->[NORMAL]#00000001#Sun Jun 04 19:04:40 2017#FurMark 1.9.2 is starting up...
+<->[NORMAL]#00000002#Sun Jun 04 19:04:40 2017#Main OpenGL renderer: Intel HD Graphics 2000
+<->[NORMAL]#00000003#Sun Jun 04 19:04:40 2017#OpenGL version detected: 3.1
+<->[NORMAL]#00000004#Sun Jun 04 19:04:40 2017#Device ID string: PCI\VEN_8086&DEV_0102&SUBSYS_D0001458&REV_09
+<->[NORMAL]#00000005#Sun Jun 04 19:04:40 2017#Graphics drivers: 9.17.10.4229 (5-26-2015) - GL:ig4icd64.dll
+<->[NORMAL]#00000006#Sun Jun 04 19:04:40 2017#CPU: Intel(R) Pentium(R) CPU G860 @ 3.00GHz
+<->[NORMAL]#00000007#Sun Jun 04 19:04:41 2017#CPU speed: 3008 MHz
+<->[NORMAL]#00000008#Sun Jun 04 19:04:41 2017#System memory: 6061 MB
+<->[NORMAL]#00000009#Sun Jun 04 19:04:41 2017#OS: Windows 7 64-bit build 7600 [No Service Pack]
+<->[NORMAL]#00000010#Sun Jun 04 19:04:41 2017#oZone3D Engine is starting up - kernel build: [v3.3.0 - Nov  8 2011 @ 07:49:18] - codename: Zhadanas
+<->[NORMAL]#00000011#Sun Jun 04 19:04:41 2017#oZone3D initialization in progress...
+<->[NORMAL]#00000012#Sun Jun 04 19:04:41 2017#oZone3D - OpenGL renderer creation ok.
+<->[NORMAL]#00000013#Sun Jun 04 19:04:41 2017#o3RendererOpenGL INFO: OpenGL version: 3.1.0 - Build 9.17.10.4229
+<->[NORMAL]#00000014#Sun Jun 04 19:04:41 2017#o3RendererOpenGL INFO: OpenGL Shading Language (GLSL) version: 1.40 - Intel Build 9.17.10.4229
+<->[NORMAL]#00000015#Sun Jun 04 19:04:41 2017#oZone3D initialization ok.
+<->[NORMAL]#00000016#Sun Jun 04 19:04:42 2017#oZone3D shutdown ok.
+<->[NORMAL]#00000017#Sun Jun 04 19:04:42 2017#FurMark shutdown OK.
